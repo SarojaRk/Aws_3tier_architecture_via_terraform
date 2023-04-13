@@ -1,4 +1,4 @@
-/*
+
 resource "aws_network_acl" "main" {
   vpc_id = aws_vpc.main.id
 
@@ -60,7 +60,7 @@ resource "aws_network_acl" "main" {
 
 resource "aws_network_acl_association" "main" {
   network_acl_id = aws_network_acl.main.id
-  subnet_id      = aws_subnet.public.id
+  subnet_id      = aws_subnet.public[0].id
 }
 
-*/
+
