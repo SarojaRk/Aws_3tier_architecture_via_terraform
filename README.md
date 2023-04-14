@@ -1,4 +1,7 @@
-# Aws_3tier_architecture_via_terraformResources need to be created / installed :
+# Aws_3tier_architecture_via_terraform
+
+Resources need to be created / installed :
+
 Custom VPC
 
 2 Subnets (Public)
