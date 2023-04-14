@@ -1,4 +1,4 @@
 # Aws_3tier_architecture_via_terraform
 Aws 3-tier architecture using terraform 
 
-![image](https://user-images.githubusercontent.com/129292821/231902563-9f14bde6-6b78-470a-8a1c-104c1d9783e5.png)
+![176078468-3847bab0-e70e-4360-b077-181315ee007c](https://user-images.githubusercontent.com/129292821/231991115-5718ad57-7aaf-4b76-a793-7495758ea21b.png)
